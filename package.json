@@ -1,0 +1,13 @@
+{
+    "name": "@amiceli/eslint-config-ts-vue",
+    "description": "Typescript Vue eslint config",
+    "version": "1.0.0",
+    "license": "WTFPL",
+    "main": "index.js",
+    "dependencies": {
+        "eslint": "^5.16.0",
+        "eslint-plugin-vue": "^5.0.0",
+        "@vue/eslint-config-airbnb": "^4.0.0",
+        "@vue/eslint-config-typescript": "^4.0.0"
+    }
+}
